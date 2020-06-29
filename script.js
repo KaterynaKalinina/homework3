@@ -1,6 +1,6 @@
 // Task at the lesson
 
-/*let yearOfBirth = +prompt('Enter the year of your birth', '');
+let yearOfBirth = +prompt('Enter the year of your birth', '');
 let today = new Date();
 let age = today.getFullYear() - yearOfBirth;
 
@@ -13,7 +13,7 @@ if (isNaN(age)) {
 } else {
     console.log('Access denied');
 }
-*/
+
 
 // Task about a questionary
 
